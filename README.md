@@ -6,4 +6,4 @@ Install the libraries
 
 To execute go on terminal or terminal on IDE to the specific folder containing the resource and test_case
 Run:
-    robot test_case.robot
+    robot --outputdir results  test_cases.robot
